@@ -1,0 +1,35 @@
+site_name: Guardiões da saúde
+pages:
+  - Home: 'index.md'
+  - Metodologia: 'metodologia/metodologia.md'
+  - Pré-Rastreabilidade:
+    - Rich Pictures: 'pre-rastreabilidade/RichPictures.md'
+  - Elicitação:
+    - Introspecção: 'elicitacao/Introspeccao.md'
+    - Observação: 'elicitacao/observacao.md'
+    - Brainstorming: 'elicitacao/brainstorming.md'
+    - Priorização: 'elicitacao/priorizacao.md'
+  - Modelagem:
+    - Cenários: 'modelagem/cenarios.md'
+    - Léxicos: 'modelagem/lexicos.md'
+    - Diagramas de Casos de Uso: 'modelagem/dcu.md'
+    - Especificações de casos de uso: 'modelagem/ecu.md'
+    - Especificação Suplementar: 'modelagem/es.md'
+    - Backlog do Produto: 'modelagem/backlog.md'
+    - NFR: 'modelagem/NFR.md'
+  - Análise: 
+    - NFR: 'analise/NFR.md'
+    - Casos de Uso: 'analise/casos-de-useo.md'
+    - Rich Pictures: 'analise/richpicture.md'
+    - Observação: 'analise/observacao.md'
+    - Léxicos: 'analise/lexicos.md'
+    - Brainstorming: 'analise/brainstorming.md'
+  - Pós-Rastreabilidade:
+    - Backward-From: 'pos-rastreabilidade/backward.md'
+    - Forward-From: 'pos-rastreabilidade/forward.md'
+    - EAP: 'pos-rastreabilidade/eap.md'
+
+theme:
+  name: material
+  logo: assets/logo.png
+  language: pt
