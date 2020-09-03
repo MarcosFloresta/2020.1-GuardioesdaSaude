@@ -1,11 +1,18 @@
-# Guardioes da Saúde
-  
-  
-# Sobre o Projeto
-  
-  
-# Equipe 
+<div align='center'>
+  <a href = "https://github.com/Requisitos-de-Software/2020.1-GuardioesdaSaude">
+    <img src="/docs/assets/guardioes.png" width="200px"/>
+  </a>
+</div>
 
+## Guardioes da Saúde
+  
+---
+
+## Sobre o Projeto
+  
+---
+
+## Equipe 
 
 <table>
   <thead>
@@ -42,8 +49,11 @@
     <tr>
       <td>Wagner Martins da Cunha</td>
       <td></td>
-      <td>wagnermc506</td>
+      <td>wagnermc506</td>## Equipe
       <td></td>
     </tr> 
   </tbody>  
 </table> 
+
+
+
