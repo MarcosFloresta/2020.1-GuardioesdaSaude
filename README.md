@@ -1,27 +1,16 @@
-<<<<<<< HEAD
-## Guardioes da Saúde
-  
-  
-## Sobre o Projeto
-=======
-<div align='center'>
+<div align="center">
   <a href = "https://github.com/Requisitos-de-Software/2020.1-GuardioesdaSaude">
-    <img src="/docs/assets/guardioes.png" width="200px"/>
+    <img src="/docs/assets/guardioes.png" width="300px"/>
   </a>
 </div>
 
 ## Guardioes da Saúde
->>>>>>> 24ea63352025dea7e04fe6d69d443de10e72c703
   
 ---
 
 ## Sobre o Projeto
-  
-<<<<<<< HEAD
- 
-=======
+
 ---
->>>>>>> 24ea63352025dea7e04fe6d69d443de10e72c703
 
 ## Equipe 
 
@@ -66,9 +55,6 @@
   </tbody>  
 </table> 
 
-<<<<<<< HEAD
+---
+
 ## Ferramentas
-=======
-
->>>>>>> 24ea63352025dea7e04fe6d69d443de10e72c703
-
