@@ -36,9 +36,9 @@
     </tr> 
     <tr>
       <td>Murilo Schiler Lopes Santana</td>
-      <td></td>
+      <td>150142536</td>
       <td>muriloschiler</td>
-      <td></td>
+      <td>muriloschiler.ls@gmail.com</td>
     </tr> 
     <tr>
       <td>Thiago Luiz de Souza Gomes</td>
