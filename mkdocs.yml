@@ -1,7 +1,7 @@
 site_name: Guardiões da saúde
 pages:
   - Home: 'index.md'
-  - Metodologia: 'metodologia/metodologia.md'
+  - Planejamento: 'planejamento/planejamento.md'
   - Pré-Rastreabilidade:
     - Rich Pictures: 'pre-rastreabilidade/RichPictures.md'
   - Elicitação:
