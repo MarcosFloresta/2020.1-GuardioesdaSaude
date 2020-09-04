@@ -1,10 +1,10 @@
+# Guardioes da Saúde
+
 <div align="center">
   <a href = "https://github.com/Requisitos-de-Software/2020.1-GuardioesdaSaude">
     <img src="/docs/assets/guardioes.png" width="300px"/>
   </a>
 </div>
-
-## Guardioes da Saúde
   
 ---
 
