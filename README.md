@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href = "https://github.com/Requisitos-de-Software/2020.1-GuardioesdaSaude">
-    <img src="/docs/assets/guardioes.png" width="300px"/>
+    <img src="/docs/assets/guardioes.png" width="500px"/>
   </a>
 </div>
   
@@ -21,7 +21,7 @@
     <th>GitHub</th>
     <th>Email</th>
   </thead>
-  <tbody align='center'>
+  <tbody align="center">
     <tr> 
       <td>Kalebe Lopes da Cunha</td>
       <td>160010900</td>
@@ -58,3 +58,25 @@
 ---
 
 ## Ferramentas
+
+
+<div style="clear: both; display: table;">
+  <div style="float: left; width: 33.33%;">
+    <img src="/docs/assets/zenhub.png" alt="ZenHub" style="width:100%">
+  </div>
+  <div style="float: left; width: 33.33%;">
+    <img src="/docs/assets/telegram.png" alt="Telegram" style="width:100%">
+  </div>
+  <div style="float: left; width: 33.33%;">
+    <img src="/docs/assets/git.png" alt="GitHub" style="width:100%">
+  </div>
+  <div style="float: left; width: 33.33%;">
+    <img src="/docs/assets/driver.png" alt="Driver" style="width:100%">
+  </div>
+  <div style="float: left; width: 33.33%;">
+    <img src="/docs/assets/calendar.png" alt="Google Calendar" style="width:100%">
+  </div>
+  <div style="float: left; width: 33.33%;">
+    <img src="/docs/assets/teams.png" alt="Teams" style="width:100%">
+  </div>
+</div>  
