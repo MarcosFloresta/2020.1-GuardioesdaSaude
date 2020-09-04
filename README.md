@@ -14,7 +14,7 @@
 
 ## Equipe 
 
-<table>
+<table align="center">
   <thead>
     <th>Nome</th>
     <th>Matrícula</th>
