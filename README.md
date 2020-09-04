@@ -48,9 +48,9 @@
     </tr> 
     <tr>
       <td>Wagner Martins da Cunha</td>
-      <td></td>
-      <td>wagnermc506</td>## Equipe
-      <td></td>
+      <td>180029177</td>
+      <td>wagnermc506</td>
+      <td>wagnermc506@gmail.com</td>
     </tr> 
   </tbody>  
 </table> 
