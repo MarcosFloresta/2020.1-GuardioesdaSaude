@@ -61,22 +61,10 @@
 
 
 <div>
-  <div>
-    <img src="/docs/assets/zenhub.png" alt="ZenHub" width="100" hspace="30">
-  </div>
-  <div>
-    <img src="/docs/assets/telegram.png" alt="Telegram" width="100" hspace="0">
-  </div>
-  <div>
-    <img src="/docs/assets/git.png" alt="GitHub" width="200">
-  </div>
-  <div>
-    <img src="/docs/assets/driver.png" alt="Driver" width="130" hspace="5">
-  </div>
-  <div>
-    <img src="/docs/assets/calendar.png" alt="Google Calendar" width="130" hspace="25">
-  </div>
-  <div>
-    <img src="/docs/assets/teams.png" alt="Teams" width="140" hspace="0">
-  </div>
-</div>  
+  <img src="/docs/assets/zenhub.png" alt="ZenHub" width="100" hspace="30">
+  <img src="/docs/assets/telegram.png" alt="Telegram" width="100" hspace="0">
+  <img src="/docs/assets/git.png" alt="GitHub" width="200">
+  <img src="/docs/assets/driver.png" alt="Driver" width="130" hspace="5">
+  <img src="/docs/assets/calendar.png" alt="Google Calendar" width="130" hspace="25">
+  <img src="/docs/assets/teams.png" alt="Teams" width="140" hspace="0">
+</div> 
